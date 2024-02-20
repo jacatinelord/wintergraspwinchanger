@@ -1,0 +1,20 @@
+#
+# Copyright (С) since 2019+ AzerothCore <www.azerothcore.org>
+# Licence MIT https://opensource.org/MIT
+#
+
+#############################
+# Wintergrasp Win Changer #
+#############################
+[worldserver]
+
+###################################################################################################
+#   WGWINCHANGER
+#
+#   WGWINCHANGER.Enable
+#       Description: Enable mixed alliance and horde in one battleground
+#       Default: 1
+#
+###################################################################################################
+
+WGWINCHANGER.Enable = 1
